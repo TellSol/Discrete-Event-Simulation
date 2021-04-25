@@ -8,3 +8,12 @@ My intentions with this repository are NOT to make profits of this work. It is p
 
 The book can be accessed here:
 https://www.amazon.com/Simulation-Mcgraw-hill-Industrial-Engineering-Management/dp/0073401323/ref=sr_1_1?crid=20RL233M9SSDQ&dchild=1&keywords=simulation+modeling+and+analysis&qid=1619356232&sprefix=simulation+modelling+and+analysis%2Caps%2C286&sr=8-1
+
+
+## 1. Read the problem formulation in the Model class
+
+![bilde](https://user-images.githubusercontent.com/52788090/115995073-0f1dd900-a5da-11eb-9702-dddda3b2588c.png)
+
+## 2. Inspect the model (and the corresponding agents), review logic and modelling choices.
+
+## 3. Run the model and inspect the outputs
