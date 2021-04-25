@@ -1,5 +1,5 @@
 # Discrete-Event-Simulation
-Repository for Anlylogic Solution to selected Problems in A.Law's Textbook: "Simulation Modeling and Analysis"
+Repository for Anlylogic Solutions to selected Problems in A.Law's Textbook: "Simulation Modeling and Analysis"
 
 Source code and .ALP-files are downloadable in zip-files for each chapter.
 
