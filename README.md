@@ -1,13 +1,8 @@
 # A.Law-Simulation-Modelling-Analysis-Selected-Problems-in-Anylogic
 Repository for Anlylogic Solutions to selected Problems in A.Law's Textbook: "Simulation Modeling and Analysis"
 
-Source code and .ALP-files are downloadable in zip-files for each chapter.
-
-
-My intentions with this repository are NOT to make profits of this work. It is purely to share my work and inspire other simulation engineers/modelers.
-
-The book can be accessed here:
-https://www.amazon.com/Simulation-Mcgraw-hill-Industrial-Engineering-Management/dp/0073401323/ref=sr_1_1?crid=20RL233M9SSDQ&dchild=1&keywords=simulation+modeling+and+analysis&qid=1619356232&sprefix=simulation+modelling+and+analysis%2Caps%2C286&sr=8-1
+> Source code and .ALP-files are downloadable in zip-files for each chapter.
+> The Free PLE-version of AnlyLogic will be used for all the exercises.
 
 
 ## 1. Read the problem formulation in the Model class
@@ -17,3 +12,12 @@ https://www.amazon.com/Simulation-Mcgraw-hill-Industrial-Engineering-Management/
 ## 2. Inspect the model (and the corresponding agents), review logic and modelling choices.
 
 ## 3. Run the model and inspect the outputs
+
+
+
+## 4. DISCLAIMER
+
+My intentions with this repository are NOT to make profits of this work. It is purely to share my work and inspire other simulation engineers/modelers.
+
+The book can be accessed here:
+https://www.amazon.com/Simulation-Mcgraw-hill-Industrial-Engineering-Management/dp/0073401323/ref=sr_1_1?crid=20RL233M9SSDQ&dchild=1&keywords=simulation+modeling+and+analysis&qid=1619356232&sprefix=simulation+modelling+and+analysis%2Caps%2C286&sr=8-1
