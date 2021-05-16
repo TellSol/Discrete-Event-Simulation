@@ -12,9 +12,11 @@ Repository for Anlylogic Solutions to selected Problems in A.Law's Textbook: "Si
 
 ## 2. Inspect the model (and the corresponding agents), review logic and modelling choices.
 
+![bilde](https://user-images.githubusercontent.com/52788090/118391904-ef0c9300-b636-11eb-9217-75c5e344ba33.png)
+
 ## 3. Run the model and inspect the outputs
 
-
+![bilde](https://user-images.githubusercontent.com/52788090/118391981-5cb8bf00-b637-11eb-89f5-a8669b566c69.png)
 
 ## 4. DISCLAIMER
 
